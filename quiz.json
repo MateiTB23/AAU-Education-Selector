@@ -1,0 +1,232 @@
+{
+  "questions": [
+    {
+      "spoergsmaal": "Hvor interesseret er du i at udvikle software og skrive kode?",
+      "fagOmraade": "PROGRAMMERING"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at behandle matematiske problemstillinger, som i en matematik aflevering?",
+      "fagOmraade": "MATEMATIK"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at analysere data og forstå sandsynligheder?",
+      "fagOmraade": "STATISTIK"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du arbejdet med dataanalyse og maskinlæring?",
+      "fagOmraade": "DATAVIDENSKAB"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at designe og optimere algoritmer?",
+      "fagOmraade": "ALGORITMER"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at arbejde med struktureret data og databaser?",
+      "fagOmraade": "DATABASER"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du netværk?",
+      "fagOmraade": "NETVÆRK"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i teknologi og digitale systemer?",
+      "fagOmraade": "IT"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i økonomiske analyser og økonomisk teori?",
+      "fagOmraade": "ØKONOMI"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at planlægge og styre projekter?",
+      "fagOmraade": "PROJEKTLEDELSE"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at udvikle digitale løsninger og applikationer?",
+      "fagOmraade": "SOFTWAREUDVIKLING"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du design og æstetik?",
+      "fagOmraade": "DESIGN"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i menneskelig adfærd og mentale processer?",
+      "fagOmraade": "PSYKOLOGI"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du design af brugervenlige systemer?",
+      "fagOmraade": "BRUGERVENLIGHED"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at formidle budskaber effektivt?",
+      "fagOmraade": "KOMMUNIKATION"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at arbejde med digitale medier?",
+      "fagOmraade": "MEDIER"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i kunstnerisk skabelse?",
+      "fagOmraade": "KUNST"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du samspillet mellem teknologi og mennesker?",
+      "fagOmraade": "INTERAKTIONSDESIGN"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at forstå samfundets dynamikker og strukturer?",
+      "fagOmraade": "SAMFUNDSFAG"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du studiet af menneskelig adfærd og interaktion?",
+      "fagOmraade": "MENNESKET"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at forstå og arbejde med ny teknologi?",
+      "fagOmraade": "TEKNOLOGI"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du udviklingen af nye løsninger?",
+      "fagOmraade": "INNOVATION"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at forstå naturens love og fænomener?",
+      "fagOmraade": "FYSIK"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at bygge og designe bygninger?",
+      "fagOmraade": "KONSTRUKTION"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at studere levende organismer og deres funktioner?",
+      "fagOmraade": "BIOLOGI"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du stoffers egenskaber og kemiske reaktioner?",
+      "fagOmraade": "KEMI"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i miljøvenlige og bæredygtige løsninger?",
+      "fagOmraade": "BÆREDYGTIGHED"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du arbejdet med energisystemer?",
+      "fagOmraade": "ENERGI"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at forstå materialers egenskaber og anvendelse?",
+      "fagOmraade": "MATERIALELÆRE"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i teknologier på mikroskopisk skala?",
+      "fagOmraade": "NANOTEKNOLOGI"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du planlægning og styring af ressourcer?",
+      "fagOmraade": "LOGISTIK"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at arbejde med strategisk planlægning?",
+      "fagOmraade": "STRATEGI"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at arbejde med kredsløb og elektroniske komponenter?",
+      "fagOmraade": "ELEKTRONIK"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du mekaniske systemer og deres funktioner?",
+      "fagOmraade": "MEKANIK"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i industriel produktion og automatisering?",
+      "fagOmraade": "PRODUKTION"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du studiet af arvelighed og DNA?",
+      "fagOmraade": "GENETIK"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at forstå arters udvikling over tid?",
+      "fagOmraade": "EVOLUTION"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at arbejde med miljø og klimaudfordringer?",
+      "fagOmraade": "KLIMAFORANDRINGER"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du studiet af jordens struktur og sten?",
+      "fagOmraade": "GEOLOGI"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i samspillet mellem mennesker og omgivelser som land?",
+      "fagOmraade": "SAMFUNDSGEOGRAFI"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at arbejde med matematiske ligninger?",
+      "fagOmraade": "ALGEBRA"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du matematiske modeller for systemer?",
+      "fagOmraade": "DIFFERENTIALLIGNINGER"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i at finde de bedste løsninger på komplekse problemer?",
+      "fagOmraade": "OPTIMERING"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du arbejdet med datasikkerhed?",
+      "fagOmraade": "KRYPTERING"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du arbejdet med kunstig intelligens?",
+      "fagOmraade": "MASKINLÆRING"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at analysere kemi og stoffer i laboratoriet?",
+      "fagOmraade": "ANALYTISKKEMI"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i biologiske og kemiske processer?",
+      "fagOmraade": "BIOKEMI"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du elektriske og magnetiske felter?",
+      "fagOmraade": "ELEKTROMAGNETISME"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i de fysiske kemiske processer??",
+      "fagOmraade": "FYSISKKEMI"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at arbejde med kort og geografiske data?",
+      "fagOmraade": "GEOGRAFI"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du opbygningen og funktionen af elektriske kredsløb?",
+      "fagOmraade": "KREDSLØB"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du i kvantefænomener og partikelopførsel på mikroskopisk skala?",
+      "fagOmraade": "KVANTEFYSIK"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at skabe matematiske modeller for komplekse systemer?",
+      "fagOmraade": "MODELLERING"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du arbejdet med numeriske metoder og beregninger?",
+      "fagOmraade": "NUMERISKMATEMATIK"
+    },
+    {
+      "spoergsmaal": "Hvor interesseret er du reaktioner i organiske stoffer?",
+      "fagOmraade": "ORGANISK_KEMI"
+    },
+    {
+      "spoergsmaal": "Hvor godt kan du lide at simulere tekniske og naturvidenskabelige systemer?",
+      "fagOmraade": "SIMULERING"
+    },
+    {
+      "spoergsmaal": "Hvor spændende finder du studiet af termodynamiske processer?",
+      "fagOmraade": "TERMODYNAMIK"
+    }
+  ]
+}
