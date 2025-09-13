@@ -1,0 +1,216 @@
+ {
+  "STEM_Uddannelser": {
+    "IT_Bachelor": [
+      {
+        "navn": "Design og anvendelse af kunstig intelligens",
+        "beskrivelse": "Uddannelsen fokuserer på design og implementering af kunstig intelligens i forskellige applikationer og lignende.",
+        "efterfoelgende_uddannelse": "Kandidatuddannelser i AI eller datavidenskab",
+        "fagomraader": "PROGRAMMERING, MATEMATIK, STATISTIK, DATAVIDENSKAB"
+      },
+      {
+        "navn": "Datalogi",
+        "beskrivelse": "En teoretisk tilgang til softwareudvikling og algoritmer.",
+        "efterfoelgende_uddannelse": "Kandidat i datalogi, softwareudvikling eller datavidenskab.",
+        "fagomraader": "PROGRAMMERING, MATEMATIK, ALGORITMER, DATABASER"
+      },
+      {
+        "navn": "Datavidenskab og machine learning",
+        "beskrivelse": "Fokus på at analysere og forstå data ved hjælp af avancerede algoritmer og maskinlæring.",
+        "efterfoelgende_uddannelse": "Kandidat i datavidenskab eller AI.",
+        "fagomraader": "MATEMATIK, PROGRAMMERING, DATABASER, MASKINLÆRING"
+      },
+      {
+        "navn": "Informationsteknologi",
+        "beskrivelse": "En bredere IT-uddannelse med fokus på software, netværk og systemadministration.",
+        "efterfoelgende_uddannelse": "Kandidat i IT, software eller cybersikkerhed.",
+        "fagomraader": "PROGRAMMERING, DATABASER, NETVÆRK, MATEMATIK"
+      },
+      {
+        "navn": "Innovation og digitalisering",
+        "beskrivelse": "Uddannelse der kombinerer teknologi og forretningsudvikling ift. digital innovation.",
+        "efterfoelgende_uddannelse": "Kandidat i innovation, forretningsudvikling eller digital transformation.",
+        "fagomraader": "IT, ØKONOMI, PROJEKTLEDELSE, SOFTWAREUDVIKLING"
+      },
+      {
+        "navn": "Interaktionsdesign",
+        "beskrivelse": "En kreativ udannelse der fokuserer på UI/UX.",
+        "efterfoelgende_uddannelse": "Kandidat i interaktionsdesign",
+        "fagomraader": "PROGRAMMERING, DESIGN, PSYKOLOGI, BRUGERVENLIGHED"
+      },
+      {
+        "navn": "Kommunikation og digitale medier",
+        "beskrivelse": "Uddannelsen der dækker digitale medier, kommunikation og teknologi.",
+        "efterfoelgende_uddannelse": "Kandidat i medievidenskab, IT eller kommunikation.",
+        "fagomraader": "KOMMUNIKATION, MEDIER, IT, DESIGN"
+      },
+      {
+        "navn": "Kunst og teknologi",
+        "beskrivelse": "En kreativ uddannelse, som kombinerer kunst og teknologiske løsninger.",
+        "efterfoelgende_uddannelse": "Kandidat i medialogi, digital design eller interaktionsdesign.",
+        "fagomraader": "DESIGN, PROGRAMMERING, MEDIER, KUNST"
+      },
+      {
+        "navn": "Medialogi",
+        "beskrivelse": "Uddannelsen der kombinerer teknologi og medier.",
+        "efterfoelgende_uddannelse": "Kandidat i medialogi eller interaktionsdesign.",
+        "fagomraader": "PROGRAMMERING, DESIGN, MEDIER, INTERAKTIONSDESIGN"
+      },
+      {
+        "navn": "Teknoantropologi",
+        "beskrivelse": "Tværfaglig uddannelse, der kombinerer teknologi og antropologi.",
+        "efterfoelgende_uddannelse": "Kandidat i teknoantropologi, innovation eller samfundsvidenskab.",
+        "fagomraader": "SAMFUNDSFAG, MENNESKET, TEKNOLOGI, INNOVATION"
+      }
+    ],
+    "Ingenioer_Bachelor": [
+      {
+        "navn": "Arkitektur og design",
+        "beskrivelse": "Uddannelsen der kombinerer teknisk viden med kreativt design og arkitektur",
+        "efterfoelgende_uddannelse": "Kandidat i arkitektur ingeniør, industrielt design eller bygningsdesign.",
+        "fagomraader": "MATEMATIK, FYSIK, DESIGN, KONSTRUKTION"
+      },
+      {
+        "navn": "Bioteknologi",
+        "beskrivelse": "Fokus på biokemi, genetik og anvendelsen af biologi og teknologi i industrien",
+        "efterfoelgende_uddannelse": "Kandidat i bioteknologi, medicinalkemi eller bioinformatik",
+        "fagomraader": "BIOLOGI, KEMI, MATEMATIK, TEKNOLOGI"
+      },
+      {
+        "navn": "Byggeri og anlæg",
+        "beskrivelse": "Uddannelsen handler om konstruktion, materialer og byggeløsninger",
+        "efterfoelgende_uddannelse": "Kandidat i byggeteknologi.",
+        "fagomraader": "MATEMATIK, FYSIK, MATERIALELÆRE, KONSTRUKTION"
+      },
+      {
+        "navn": "By-, energi- og miljøplanlægning",
+        "beskrivelse": "En bred uddannelse, der dækker byudvikling, energisystemer og bæredygtige løsninger.",
+        "efterfoelgende_uddannelse": "Kandidat i byplanlægning, energiteknologi eller miljøteknologi.",
+        "fagomraader": "MATEMATIK, FYSIK, BÆREDYGTIGHED, ENERGI"
+      },
+      {
+        "navn": "Chemical Engineering and Biotechnology",
+        "beskrivelse": "Uddannelsen kombinerer kemi, biologi og teknologi til processer i eksempelvis industri.",
+        "efterfoelgende_uddannelse": "Kandidat i kemiteknologi eller bioteknologi",
+        "fagomraader": "KEMI, BIOLOGI, MATEMATIK, FYSIK"
+      },
+      {
+        "navn": "Elektronik og systemdesign",
+        "beskrivelse": "Uddannelsen der kombinerer hardware- og software med fokus på komplekse systemer.",
+        "efterfoelgende_uddannelse": "Kandidat i elektronik, systemdesign eller robotteknologi.",
+        "fagomraader": "FYSIK, PROGRAMMERING, KREDSLØB, ELEKTRONIK"
+      },
+      {
+        "navn": "Energi",
+        "beskrivelse": "Fokus på bæredygtige energisystemer, som vind- og solenergi",
+        "efterfoelgende_uddannelse": "Kandidat i energiteknologi eller bæredygtig energi.",
+        "fagomraader": "FYSIK, MATEMATIK, KEMI, BÆREDYGTIGHED"
+      },
+      {
+        "navn": "Fysik og teknologi (tidl. Nanoteknologi)",
+        "beskrivelse": "En ingeniør fysikuddannelse med fokus på nanoteknologi og materialer",
+        "efterfoelgende_uddannelse": "Kandidat i fysik, nanoteknologi eller materialeteknologi",
+        "fagomraader": "FYSIK, MATEMATIK, MATERIALELÆRE, NANOTEKNOLOGI"
+      },
+      {
+        "navn": "Globale Forretningssystemer",
+        "beskrivelse": "Kombination af ingeniørfag med forretningsstrategi og logistik",
+        "efterfoelgende_uddannelse": "Kandidat i forretningsudvikling eller supply chain management.",
+        "fagomraader": "MATEMATIK, ØKONOMI, LOGISTIK, STRATEGI"
+      },
+      {
+        "navn": "Ingeniørvidenskab",
+        "beskrivelse": "En bred teknisk uddannelse, der dækker flere ingeniørdiscipliner, hvis man ikke ved hvad ingeniør man vil være.",
+        "efterfoelgende_uddannelse": "Kandidat i en specialiseret ingeniørretning",
+        "fagomraader": "MATEMATIK, FYSIK, PROGRAMMERING, ELEKTRONIK"
+      },
+      {
+        "navn": "Kemiteknologi",
+        "beskrivelse": "Uddannelse der handler om kemiske processer i industrien og bæredygtige løsninger",
+        "efterfoelgende_uddannelse": "Kandidat i kemiteknologi eller miljøteknologi.",
+        "fagomraader": "KEMI, MATEMATIK, FYSIK, TEKNOLOGI"
+      },
+      {
+        "navn": "Miljøvidenskab",
+        "beskrivelse": "Uddannelse med okus på bæredygtighed, økologi og miljøteknologi",
+        "efterfoelgende_uddannelse": "Kandidat i miljøvidenskab eller bæredygtig udvikling.",
+        "fagomraader": "BIOLOGI, KEMI, FYSIK, BÆREDYGTIGHED"
+      },
+      {
+        "navn": "Matematik-teknologi",
+        "beskrivelse": "Fokuserer på matematiske metoder anvendt i teknologiske og ingeniørmæssige problemstillinger",
+        "efterfoelgende_uddannelse": "Kandidat i Matematik-teknologi eller beslægtede fagomraader",
+        "fagomraader": "OPTIMERING, MODELLERING, SIMULERING, KRYPTERING"
+      },
+      {
+        "navn": "Computerteknologi",
+        "beskrivelse": "En ingeniøruddannelse med fokus på udvikling af hardware og software til computere.",
+        "efterfoelgende_uddannelse": "Kandidatuddannelser inden for elektronik, computerteknologi eller softwareudvikling.",
+        "fagomraader": "MATEMATIK, FYSIK, PROGRAMMERING, ELEKTRONIK"
+      },
+      {
+        "navn": "Mekanik og produktion",
+        "beskrivelse": "Fokus på mekaniske systemer, produktion og industriel automation",
+        "efterfoelgende_uddannelse": "Kandidat i mekanik ingeniør eller robotteknologi",
+        "fagomraader": "FYSIK, MATEMATIK, MEKANIK, PRODUKTION"
+      },
+      {
+        "navn": "Robotteknologi",
+        "beskrivelse": "Fokus på udvikling og programmering af robotter og automatiserede systemer.",
+        "efterfoelgende_uddannelse": "Kandidat i robotteknologi, automation eller AI.",
+        "fagomraader": "PROGRAMMERING, ELEKTRONIK, MATEMATIK, FYSIK"
+      },
+      {
+        "navn": "Software",
+        "beskrivelse": "En lidt mere praktisk version af datalogi med fokus på softwareudvikling og programmering.",
+        "efterfoelgende_uddannelse": "Kandidat som civilingeniør i software eller datalogi.",
+        "fagomraader": "PROGRAMMERING, DATABASER, SOFTWAREUDVIKLING, ALGORITMER"
+      },
+      {
+        "navn": "Sundhedsteknologi",
+        "beskrivelse": "En ingeniøruddannelse, der kombinerer teknologi med sundhedssektoren.",
+        "efterfoelgende_uddannelse": "Kandidat i sundhedsteknologi eller bioteknologi",
+        "fagomraader": "FYSIK, BIOLOGI, PROGRAMMERING, ELEKTRONIK"
+      }
+    ],
+    "Science_Bachelor": [
+      {
+        "navn": "Biologi",
+        "beskrivelse": "Udannelse om studiet af levende organismer og deres sammenspil med miljøet.",
+        "efterfoelgende_uddannelse": "Kandidat i Biologi eller beslægtede fagomraader",
+        "fagomraader": "GENETIK, BIOLOGI, EVOLUTION, BIOKEMI"
+      },
+      {
+        "navn": "Fysik",
+        "beskrivelse": "Fysik udannelsen fokuserer på at forstå de fundamentale love i naturen og hvordan stof opfører sig på forskellige skalaer",
+        "efterfoelgende_uddannelse": "Kandidat i Fysik eller beslægtede fagomraader",
+        "fagomraader": "MEKANIK, ELEKTROMAGNETISME, KVANTEFYSIK, TERMODYNAMIK"
+      },
+      {
+        "navn": "Geografi",
+        "beskrivelse": "Studiet af jorden, landskaber, klima og andet geografi.",
+        "efterfoelgende_uddannelse": "Kandidat i Geografi eller beslægtede fagomraader",
+        "fagomraader": "KLIMAFORANDRINGER, GEOLOGI, SAMFUNDSGEOGRAFI, GEOGRAFI"
+      },
+      {
+        "navn": "Kemi",
+        "beskrivelse": "Videnskaben om stoffers egenskaber, strukturer og reaktioner",
+        "efterfoelgende_uddannelse": "Kandidat i Kemi eller beslægtede fagomraader",
+        "fagomraader": "ORGANISK_KEMI, ANALYTISKKEMI, BIOKEMI, FYSISKKEMI"
+      }
+    ],
+    "Math_Bachelor": [
+      {
+        "navn": "Matematik",
+        "beskrivelse": "Matematik er studiet af tal, strukturer og mønstre.",
+        "efterfoelgende_uddannelse": "Kandidat i Matematik eller beslægtede fagomraader",
+        "fagomraader": "ALGEBRA, STATISTIK, NUMERISKMATEMATIK, DIFFERENTIALLIGNINGER"
+      },
+      {
+        "navn": "Matematik-økonomi",
+        "beskrivelse": "Kombinerer matematiske metoder med økonomisk teori for at analysere økonomiske problemstillinger",
+        "efterfoelgende_uddannelse": "Kandidat i Matematik-økonomi eller beslægtede fagomraader",
+        "fagomraader": "ØKONOMI, STATISTIK, NUMERISKMATEMATIK, DIFFERENTIALLIGNINGER"
+      }
+    ]
+  }
+}
